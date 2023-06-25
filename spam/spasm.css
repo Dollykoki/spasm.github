@@ -1,0 +1,33 @@
+.p1{
+  margin: 10px 10px 10px 130px;
+}
+
+#coma{
+  background-color:lightcyan;
+
+ height: 300px;
+
+}
+
+#logo{
+ width: 30px;
+ height: 30px;
+ border-radius: 30px;
+display:block;
+margin-right:auto;
+margin-left: auto;
+
+}
+.img{
+  margin: 10px 10px 10px 50px;
+}
+#a{
+  text-align: center;
+  padding-bottom: 80px;
+}
+.b{
+  padding-left: 50px;
+}
+.tt{
+  background-image: url(map2.png);
+}
